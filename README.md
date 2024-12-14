@@ -4,7 +4,7 @@
 
 <h3>Objetivo:</h3>
 <p>Este projeto foi desenvolvido como parte do Bootcamp Santander Cibersegurança oferecido pela Digital Innovation One (DIO). 
-  O objetivo deste desafio é implementar um Ransomware para criptografar arquivos utilizando a linguagem Python</p>
+  O objetivo deste desafio é implementar um Ransomware para criptografar arquivos utilizando a linguagem Python.</p>
 
 -------------------------------------------------------
 ![img1](https://github.com/user-attachments/assets/f2ebac76-68ee-4289-a673-95136f90ed48)
